@@ -33,6 +33,6 @@ LangChain
 
 Groq API
 
-Streamlit (if UI included)
+Streamlit
 
 dotenv for environment variable management
